@@ -1,2 +1,5 @@
-# ECE Ecole d'ingénieurs
-## Campus de Lyon
+![](./bandeau-github.png)
+
+# :mortar_board: ECE Ecole d'ingénieurs
+
+:round_pushpin: Campus de Lyon
